@@ -1,5 +1,11 @@
 *.net
 *.py
 !fourth.py
-[seiou]*.php
+![aeiou].php
+
+
+
+
+
+
 
